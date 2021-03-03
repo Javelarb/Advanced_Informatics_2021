@@ -22,3 +22,5 @@ I am now a professional bioinformatician
 [Week 6](https://github.com/Javelarb/Week6)
 
 [Week 7](https://github.com/Javelarb/Week7)
+
+[Week 8](https://github.com/Javelarb/Week8)
